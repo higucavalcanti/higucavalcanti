@@ -10,7 +10,7 @@ Estudante de **Engenharia de Software (UPE)** · Desenvolvedor **Full-Stack** co
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div">
+<div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=higucavalcanti&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=3600"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higucavalcanti&layout=compact&langs_count=7&theme=radical&cache_seconds=3600"/>
 </div>
