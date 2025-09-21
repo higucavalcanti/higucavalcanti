@@ -1,6 +1,6 @@
 # Higor Cavalcanti
 
-Estudante de **Engenharia de Software (UPE)** · Desenvolvedor **Full-Stack** com foco em **Node.js** e **React (JS/TS)**.
+Estudante de **Engenharia de Software (UPE)** · Desenvolvedor **Full-Stack** com maior domínio em **Node.js** e **React (JS/TS)**.
 
 - 🔭 **Atualmente:** Aprimorando minhas habilidades em desenvolvimento Full-Stack e explorando novas tecnologias.
 - 💡 **Interesses:** Desenvolvimento web e mobile, qualidade de software, documentação e aplicação de boas práticas de engenharia.
